@@ -1,4 +1,4 @@
-##Global Terrorism Dataset - Exploratory Data Analysis (EDA)
+Global Terrorism Dataset - Exploratory Data Analysis (EDA)
 
 This repository contains an Exploratory Data Analysis (EDA) project performed on the Global Terrorism dataset sourced from Kaggle. The goal of this project is to gain insights and understanding about global terrorism trends using data visualization and analysis techniques.
 
