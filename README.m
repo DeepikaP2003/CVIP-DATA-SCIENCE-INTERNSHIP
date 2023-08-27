@@ -1,12 +1,12 @@
-Global Terrorism Dataset - Exploratory Data Analysis (EDA)
+#Global Terrorism Dataset - Exploratory Data Analysis (EDA)
 
 This repository contains an Exploratory Data Analysis (EDA) project performed on the Global Terrorism dataset sourced from Kaggle. The goal of this project is to gain insights and understanding about global terrorism trends using data visualization and analysis techniques.
 
-Dataset
+##Dataset
 
 The dataset used for this analysis is the [Global Terrorism Database (GTD)](https://www.kaggle.com/START-UMD/gtd) available on Kaggle. The GTD is an open-source database including information on terrorist events around the world from 1970 through present.
 
-Project Overview
+#Project Overview
 
 - **Data Exploration**: The dataset is loaded and examined to understand its structure and features.
 
@@ -16,7 +16,7 @@ Project Overview
 
 - **Data Visualization**: Various plots and visualizations are created to represent patterns and trends in the data.
 
-Libraries Used
+##Libraries Used
 
 - pandas
 - numpy
